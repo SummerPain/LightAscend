@@ -1,0 +1,8 @@
+in development and regular testing...
+
+2nd number of version is number of items.
+
+Items:
+	-Weapons:
+		-Post-Plantera: 1
+		-Post-ML: 1

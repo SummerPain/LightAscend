@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeVPZhttVIFBl8gAMCBUeqeKVccSieljyoLYsLyN+H6BDWBiLGiKFmfUmHIa+ZdL+YpxsOUDYKU8Yf85E5dycA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дима\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LightAscend\\LightAscend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дима\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

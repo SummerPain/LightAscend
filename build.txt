@@ -1,0 +1,4 @@
+displayName = Light Ascend
+author = Shadow.nee
+version = 0.2.3
+includeSource = true

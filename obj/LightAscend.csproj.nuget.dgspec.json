@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Дима\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LightAscend\\LightAscend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Дима\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LightAscend\\LightAscend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Дима\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LightAscend\\LightAscend.csproj",
+        "projectName": "LightAscend",
+        "projectPath": "C:\\Users\\Дима\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LightAscend\\LightAscend.csproj",
+        "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Дима\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\LightAscend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Дима\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
