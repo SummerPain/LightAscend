@@ -28,7 +28,7 @@ namespace LightAscend.Items.Weapons
 			item.useStyle = ItemUseStyleID.HoldingOut;
 			item.shootSpeed = 30f;
 			item.shoot = ModContent.ProjectileType<LightLaser>();
-			item.value = Item.sellPrice(platinum: 1);
+			item.value = Item.sellPrice(gold: 40);
 		}
 		
 		public override void AddRecipes()

@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using LightAscend.Sounds.Custom;
 
 namespace LightAscend.Projectiles
 {
@@ -52,10 +53,9 @@ namespace LightAscend.Projectiles
             {
 				if (!Main.dedServ)
 				{
-					//Main.PlaySound(SoundID.Item, Style: mod.GetSoundSlot(SoundType.Custom, "Sounds/Custom/ShiningStarSound"), volumeScale: 6f);
 					Main.PlaySound(mod.GetLegacySoundSlot(SoundType.Custom, "Sounds/Custom/ShiningStarSound").WithVolume(6.6f).WithPitchVariance(.4f), projectile.Center);
 				}
-            }
+			}
             #endregion
 
             #region typeCheck
